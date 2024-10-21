@@ -1,0 +1,51 @@
+body{
+
+background-color: green;
+font-family: Arial, Helvetica, sans-serif;
+margin: 2px 1px 1px 1px
+
+}
+
+h1 {
+    color: rgb(248, 248, 248)
+}
+
+h2 {
+    color: rgb(250, 252, 250)
+}
+
+h3 {
+    color: rgb(249, 250, 249)
+}
+
+h4 {
+    color: rgb(249, 250, 249)
+}
+
+nav{
+    background-color: rgb(2, 114, 20);
+}
+
+li{
+    color: rgb(0, 7, 1);
+    display: inline-block;
+    padding:14px; 
+
+}
+
+
+aside {
+    padding: 20px;
+}
+
+footer{
+    clear:both;
+    float:center;
+}
+
+
+a{color: white;
+
+
+}
+
